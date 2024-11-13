@@ -16,11 +16,11 @@ Once the OCR is complete, it will display the extracted text in the popup hangov
 •  It's free to use
 
 
-![ocr1 alt](./images/resize_7resize_71s.png) 
+![ocr1 alt](./images/1s.png) 
 
 ![ocr-processing alt](./images/collage.png) 
 
-![ocr5-chi alt](./images/resize_75s_chi.jpeg)
+![ocr5-chi alt](./images/5s_chi.jpeg)
 
 
 
