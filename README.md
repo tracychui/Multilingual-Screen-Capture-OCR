@@ -1,0 +1,1 @@
+# Multilingual-Screen-Capture-OCR
